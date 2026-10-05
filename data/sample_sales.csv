@@ -1,0 +1,301 @@
+order_id,date,product,category,units,unit_price,region,revenue
+ORD-1001,2025-03-04,CloudSync,Software,1,373.35,EU-East,373.35
+ORD-1002,2025-05-20,DataViz License,Software,4,341.57,EU-West,1366.28
+ORD-1003,2025-02-25,Router X200,Hardware,2,24.59,EU-East,49.18
+ORD-1004,2025-06-16,Widget Pro,Hardware,18,107.42,EU-South,1933.56
+ORD-1005,2025-01-02,Sensor Kit,Hardware,15,298.73,EU-East,4480.95
+ORD-1006,2025-02-25,Router X200,Hardware,11,146.15,EU-North,1607.65
+ORD-1007,2025-04-02,CloudSync,Software,3,196.15,EU-North,588.45
+ORD-1008,2025-05-18,Support Plan,Service,2,367.56,EU-West,735.12
+ORD-1009,2025-06-10,Router X200,Hardware,3,280.49,EU-North,841.47
+ORD-1010,2025-02-28,Sensor Kit,Hardware,3,32.44,EU-North,97.32
+ORD-1011,2025-04-08,CloudSync,Software,8,434.57,EU-North,3476.56
+ORD-1012,2025-04-01,Analytics Suite,Software,12,89.69,EU-East,1076.28
+ORD-1013,2025-02-13,Support Plan,Service,3,308.46,EU-East,925.38
+ORD-1014,2025-06-13,DataViz License,Software,15,195.92,EU-East,2938.80
+ORD-1015,2025-01-09,API Credits,Service,2,122.22,EU-North,244.44
+ORD-1016,2025-05-26,Router X200,Hardware,9,42.42,EU-North,381.78
+ORD-1017,2025-06-14,Sensor Kit,Hardware,16,203.85,EU-South,3261.60
+ORD-1018,2025-05-24,DataViz License,Software,9,78.41,EU-North,705.69
+ORD-1019,2025-02-26,Router X200,Hardware,19,205.7,EU-East,3908.30
+ORD-1020,2025-01-29,Analytics Suite,Software,3,380.32,EU-East,1140.96
+ORD-1021,2025-04-09,DataViz License,Software,14,302.23,EU-South,4231.22
+ORD-1022,2025-05-22,Analytics Suite,Software,17,133.18,EU-West,2264.06
+ORD-1023,2025-06-14,CloudSync,Software,18,377.92,EU-North,6802.56
+ORD-1024,2025-04-27,CloudSync,Software,10,223.02,EU-West,2230.20
+ORD-1025,2025-05-10,Support Plan,Service,17,383.35,EU-West,6516.95
+ORD-1026,2025-02-09,Support Plan,Service,17,308.39,EU-North,5242.63
+ORD-1027,2025-05-16,DataViz License,Software,18,477.2,EU-West,8589.60
+ORD-1028,2025-04-03,API Credits,Service,16,19.53,EU-North,312.48
+ORD-1029,2025-05-26,Sensor Kit,Hardware,2,128.02,EU-West,256.04
+ORD-1030,2025-05-17,CloudSync,Software,16,409.84,EU-East,6557.44
+ORD-1031,2025-02-12,DataViz License,Software,16,473.95,EU-North,7583.20
+ORD-1032,2025-06-26,Router X200,Hardware,7,465.16,EU-East,3256.12
+ORD-1033,2025-06-16,Support Plan,Service,13,497.61,EU-North,6468.93
+ORD-1034,2025-03-05,Analytics Suite,Software,17,231.22,EU-East,3930.74
+ORD-1035,2025-05-22,CloudSync,Software,11,20.3,EU-East,223.30
+ORD-1036,2025-06-11,Sensor Kit,Hardware,1,44.78,EU-West,44.78
+ORD-1037,2025-03-26,Sensor Kit,Hardware,3,453.65,EU-West,1360.95
+ORD-1038,2025-02-24,Sensor Kit,Hardware,9,337.79,EU-East,3040.11
+ORD-1039,2025-04-15,Analytics Suite,Software,8,394.45,EU-East,3155.60
+ORD-1040,2025-04-01,CloudSync,Software,4,332.89,EU-South,1331.56
+ORD-1041,2025-01-14,Router X200,Hardware,15,433.27,EU-West,6499.05
+ORD-1042,2025-01-28,Widget Pro,Hardware,13,366.81,EU-East,4768.53
+ORD-1043,2025-02-05,Sensor Kit,Hardware,7,272.77,EU-South,1909.39
+ORD-1044,2025-01-20,DataViz License,Software,9,236.68,EU-South,2130.12
+ORD-1045,2025-05-19,CloudSync,Software,2,329.54,EU-West,659.08
+ORD-1046,2025-05-05,CloudSync,Software,8,91.48,EU-South,731.84
+ORD-1047,2025-02-12,Sensor Kit,Hardware,13,452.19,EU-South,5878.47
+ORD-1048,2025-04-27,Widget Pro,Hardware,13,139.94,EU-North,1819.22
+ORD-1049,2025-05-05,Router X200,Hardware,18,334.31,EU-East,6017.58
+ORD-1050,2025-01-15,Sensor Kit,Hardware,10,116.66,EU-West,1166.60
+ORD-1051,2025-05-03,API Credits,Service,2,34.56,EU-East,69.12
+ORD-1052,2025-02-17,Widget Pro,Hardware,17,49.24,EU-West,837.08
+ORD-1053,2025-05-26,CloudSync,Software,8,207.84,EU-East,1662.72
+ORD-1054,2025-06-18,Widget Pro,Hardware,20,50.16,EU-North,1003.20
+ORD-1055,2025-03-22,Support Plan,Service,7,338.16,EU-East,2367.12
+ORD-1056,2025-06-15,Support Plan,Service,13,74.12,EU-North,963.56
+ORD-1057,2025-01-19,Analytics Suite,Software,11,465.21,EU-West,5117.31
+ORD-1058,2025-01-26,Analytics Suite,Software,20,499.23,EU-West,9984.60
+ORD-1059,2025-03-31,Sensor Kit,Hardware,17,139.94,EU-West,2378.98
+ORD-1060,2025-04-23,Sensor Kit,Hardware,12,149.63,EU-North,1795.56
+ORD-1061,2025-06-19,Widget Pro,Hardware,18,156.69,EU-West,2820.42
+ORD-1062,2025-01-28,DataViz License,Software,9,66.55,EU-East,598.95
+ORD-1063,2025-03-29,Support Plan,Service,10,306.36,EU-East,3063.60
+ORD-1064,2025-01-14,Support Plan,Service,17,249.37,EU-West,4239.29
+ORD-1065,2025-03-27,Router X200,Hardware,9,31.59,EU-East,284.31
+ORD-1066,2025-05-22,Support Plan,Service,6,373.19,EU-South,2239.14
+ORD-1067,2025-06-26,Widget Pro,Hardware,4,46.86,EU-East,187.44
+ORD-1068,2025-02-07,Widget Pro,Hardware,12,295.42,EU-South,3545.04
+ORD-1069,2025-01-11,DataViz License,Software,2,161.04,EU-North,322.08
+ORD-1070,2025-04-01,Sensor Kit,Hardware,8,336.79,EU-South,2694.32
+ORD-1071,2025-02-15,DataViz License,Software,8,433.65,EU-South,3469.20
+ORD-1072,2025-03-27,Widget Pro,Hardware,6,370.91,EU-South,2225.46
+ORD-1073,2025-06-29,Sensor Kit,Hardware,9,88.0,EU-West,792.00
+ORD-1074,2025-02-26,Router X200,Hardware,2,430.7,EU-East,861.40
+ORD-1075,2025-02-28,Analytics Suite,Software,12,159.53,EU-East,1914.36
+ORD-1076,2025-03-13,Widget Pro,Hardware,7,205.24,EU-West,1436.68
+ORD-1077,2025-04-13,Support Plan,Service,12,324.32,EU-North,3891.84
+ORD-1078,2025-03-08,Widget Pro,Hardware,4,439.74,EU-East,1758.96
+ORD-1079,2025-04-22,Support Plan,Service,2,63.11,EU-North,126.22
+ORD-1080,2025-05-11,API Credits,Service,14,307.03,EU-West,4298.42
+ORD-1081,2025-01-12,Router X200,Hardware,19,103.13,EU-South,1959.47
+ORD-1082,2025-05-18,Widget Pro,Hardware,17,463.52,EU-East,7879.84
+ORD-1083,2025-06-20,API Credits,Service,14,44.28,EU-North,619.92
+ORD-1084,2025-03-18,API Credits,Service,4,362.67,EU-North,1450.68
+ORD-1085,2025-03-17,Router X200,Hardware,11,207.17,EU-East,2278.87
+ORD-1086,2025-04-08,Sensor Kit,Hardware,14,335.81,EU-East,4701.34
+ORD-1087,2025-01-01,Support Plan,Service,13,278.48,EU-North,3620.24
+ORD-1088,2025-05-29,Support Plan,Service,7,220.64,EU-North,1544.48
+ORD-1089,2025-02-24,Analytics Suite,Software,15,226.65,EU-South,3399.75
+ORD-1090,2025-06-19,DataViz License,Software,3,149.05,EU-North,447.15
+ORD-1091,2025-02-27,CloudSync,Software,8,339.66,EU-East,2717.28
+ORD-1092,2025-05-02,DataViz License,Software,1,32.63,EU-West,32.63
+ORD-1093,2025-05-28,Analytics Suite,Software,14,444.2,EU-East,6218.80
+ORD-1094,2025-02-07,Router X200,Hardware,16,205.82,EU-West,3293.12
+ORD-1095,2025-06-28,CloudSync,Software,14,117.22,EU-South,1641.08
+ORD-1096,2025-02-01,Widget Pro,Hardware,18,132.1,EU-South,2377.80
+ORD-1097,2025-05-24,DataViz License,Software,15,337.1,EU-North,5056.50
+ORD-1098,2025-05-10,Analytics Suite,Software,20,409.34,EU-South,8186.80
+ORD-1099,2025-05-02,Analytics Suite,Software,6,374.38,EU-South,2246.28
+ORD-1100,2025-03-12,Support Plan,Service,8,421.52,EU-South,3372.16
+ORD-1101,2025-03-15,Sensor Kit,Hardware,9,225.53,EU-East,2029.77
+ORD-1102,2025-05-19,Support Plan,Service,11,166.65,EU-West,1833.15
+ORD-1103,2025-06-27,DataViz License,Software,5,123.31,EU-East,616.55
+ORD-1104,2025-03-26,Sensor Kit,Hardware,3,213.28,EU-South,639.84
+ORD-1105,2025-04-18,Router X200,Hardware,2,111.34,EU-South,222.68
+ORD-1106,2025-01-02,Widget Pro,Hardware,19,196.38,EU-North,3731.22
+ORD-1107,2025-04-18,Support Plan,Service,13,428.18,EU-East,5566.34
+ORD-1108,2025-05-05,Analytics Suite,Software,8,143.73,EU-West,1149.84
+ORD-1109,2025-04-14,Router X200,Hardware,11,337.74,EU-East,3715.14
+ORD-1110,2025-05-17,Analytics Suite,Software,5,490.54,EU-West,2452.70
+ORD-1111,2025-01-07,Router X200,Hardware,19,286.54,EU-West,5444.26
+ORD-1112,2025-02-16,Router X200,Hardware,5,434.75,EU-West,2173.75
+ORD-1113,2025-04-27,Support Plan,Service,13,170.39,EU-North,2215.07
+ORD-1114,2025-04-18,API Credits,Service,13,146.34,EU-North,1902.42
+ORD-1115,2025-05-19,CloudSync,Software,16,19.49,EU-West,311.84
+ORD-1116,2025-06-16,API Credits,Service,8,328.56,EU-West,2628.48
+ORD-1117,2025-01-06,Widget Pro,Hardware,8,107.68,EU-East,861.44
+ORD-1118,2025-01-30,Sensor Kit,Hardware,5,242.03,EU-East,1210.15
+ORD-1119,2025-02-12,Analytics Suite,Software,9,385.77,EU-West,3471.93
+ORD-1120,2025-01-07,DataViz License,Software,10,62.96,EU-North,629.60
+ORD-1121,2025-02-20,Router X200,Hardware,13,471.31,EU-West,6127.03
+ORD-1122,2025-03-19,Sensor Kit,Hardware,4,351.61,EU-West,1406.44
+ORD-1123,2025-06-19,Widget Pro,Hardware,12,271.04,EU-North,3252.48
+ORD-1124,2025-01-04,CloudSync,Software,17,327.29,EU-South,5563.93
+ORD-1125,2025-04-03,Analytics Suite,Software,4,222.42,EU-South,889.68
+ORD-1126,2025-05-14,DataViz License,Software,14,96.3,EU-North,1348.20
+ORD-1127,2025-06-01,Analytics Suite,Software,15,223.42,EU-North,3351.30
+ORD-1128,2025-01-23,API Credits,Service,8,417.05,EU-North,3336.40
+ORD-1129,2025-05-26,Analytics Suite,Software,8,377.72,EU-South,3021.76
+ORD-1130,2025-03-25,API Credits,Service,1,252.2,EU-East,252.20
+ORD-1131,2025-03-08,Analytics Suite,Software,7,183.85,EU-North,1286.95
+ORD-1132,2025-03-12,Support Plan,Service,20,353.57,EU-West,7071.40
+ORD-1133,2025-04-15,Sensor Kit,Hardware,3,128.25,EU-South,384.75
+ORD-1134,2025-05-06,Sensor Kit,Hardware,16,326.48,EU-South,5223.68
+ORD-1135,2025-04-14,Widget Pro,Hardware,3,154.17,EU-East,462.51
+ORD-1136,2025-05-22,Support Plan,Service,19,190.81,EU-North,3625.39
+ORD-1137,2025-06-29,Router X200,Hardware,18,172.08,EU-South,3097.44
+ORD-1138,2025-01-31,Support Plan,Service,10,133.18,EU-East,1331.80
+ORD-1139,2025-06-26,API Credits,Service,4,374.0,EU-East,1496.00
+ORD-1140,2025-03-12,Sensor Kit,Hardware,7,371.91,EU-North,2603.37
+ORD-1141,2025-04-03,CloudSync,Software,7,155.15,EU-East,1086.05
+ORD-1142,2025-02-02,Support Plan,Service,1,356.92,EU-North,356.92
+ORD-1143,2025-06-28,Widget Pro,Hardware,2,281.14,EU-East,562.28
+ORD-1144,2025-05-27,Analytics Suite,Software,4,437.62,EU-North,1750.48
+ORD-1145,2025-02-17,Analytics Suite,Software,16,225.82,EU-West,3613.12
+ORD-1146,2025-01-17,Support Plan,Service,16,65.89,EU-South,1054.24
+ORD-1147,2025-06-25,Analytics Suite,Software,3,292.73,EU-West,878.19
+ORD-1148,2025-03-19,DataViz License,Software,5,407.45,EU-West,2037.25
+ORD-1149,2025-04-17,Sensor Kit,Hardware,4,283.45,EU-East,1133.80
+ORD-1150,2025-03-18,Router X200,Hardware,15,455.16,EU-South,6827.40
+ORD-1151,2025-06-06,Support Plan,Service,19,314.29,EU-West,5971.51
+ORD-1152,2025-01-21,Sensor Kit,Hardware,7,139.67,EU-East,977.69
+ORD-1153,2025-02-10,Sensor Kit,Hardware,6,280.47,EU-West,1682.82
+ORD-1154,2025-05-01,Router X200,Hardware,15,347.78,EU-North,5216.70
+ORD-1155,2025-03-14,Widget Pro,Hardware,8,151.16,EU-South,1209.28
+ORD-1156,2025-06-10,CloudSync,Software,8,462.71,EU-East,3701.68
+ORD-1157,2025-06-15,Router X200,Hardware,4,276.83,EU-East,1107.32
+ORD-1158,2025-02-12,Support Plan,Service,5,44.98,EU-North,224.90
+ORD-1159,2025-06-26,Support Plan,Service,15,70.92,EU-North,1063.80
+ORD-1160,2025-05-07,Router X200,Hardware,9,255.22,EU-South,2296.98
+ORD-1161,2025-04-21,CloudSync,Software,20,29.52,EU-North,590.40
+ORD-1162,2025-06-22,Support Plan,Service,1,54.74,EU-West,54.74
+ORD-1163,2025-02-14,Support Plan,Service,19,29.7,EU-South,564.30
+ORD-1164,2025-05-30,Analytics Suite,Software,9,98.92,EU-South,890.28
+ORD-1165,2025-04-15,Analytics Suite,Software,3,240.3,EU-North,720.90
+ORD-1166,2025-03-26,API Credits,Service,4,430.28,EU-South,1721.12
+ORD-1167,2025-04-13,Analytics Suite,Software,10,334.66,EU-West,3346.60
+ORD-1168,2025-03-24,Analytics Suite,Software,3,164.1,EU-West,492.30
+ORD-1169,2025-01-01,Router X200,Hardware,17,414.2,EU-South,7041.40
+ORD-1170,2025-04-03,Router X200,Hardware,2,101.91,EU-South,203.82
+ORD-1171,2025-05-21,Analytics Suite,Software,2,109.73,EU-East,219.46
+ORD-1172,2025-05-05,Support Plan,Service,15,441.6,EU-West,6624.00
+ORD-1173,2025-02-10,Widget Pro,Hardware,20,401.65,EU-North,8033.00
+ORD-1174,2025-02-27,Widget Pro,Hardware,18,209.91,EU-West,3778.38
+ORD-1175,2025-02-09,Analytics Suite,Software,4,327.37,EU-South,1309.48
+ORD-1176,2025-04-17,Support Plan,Service,17,355.64,EU-South,6045.88
+ORD-1177,2025-02-07,Analytics Suite,Software,8,233.82,EU-South,1870.56
+ORD-1178,2025-02-04,Sensor Kit,Hardware,20,259.03,EU-West,5180.60
+ORD-1179,2025-05-10,Support Plan,Service,14,176.53,EU-North,2471.42
+ORD-1180,2025-05-31,Widget Pro,Hardware,10,365.75,EU-South,3657.50
+ORD-1181,2025-03-30,DataViz License,Software,15,273.89,EU-North,4108.35
+ORD-1182,2025-02-18,Router X200,Hardware,15,467.09,EU-East,7006.35
+ORD-1183,2025-04-16,Router X200,Hardware,8,429.44,EU-West,3435.52
+ORD-1184,2025-04-08,API Credits,Service,16,355.55,EU-South,5688.80
+ORD-1185,2025-02-02,DataViz License,Software,16,482.75,EU-North,7724.00
+ORD-1186,2025-04-27,CloudSync,Software,15,58.85,EU-West,882.75
+ORD-1187,2025-02-09,DataViz License,Software,14,436.75,EU-West,6114.50
+ORD-1188,2025-06-27,Analytics Suite,Software,9,175.89,EU-South,1583.01
+ORD-1189,2025-05-17,CloudSync,Software,11,427.64,EU-South,4704.04
+ORD-1190,2025-01-10,API Credits,Service,16,437.46,EU-West,6999.36
+ORD-1191,2025-01-24,Sensor Kit,Hardware,10,498.73,EU-South,4987.30
+ORD-1192,2025-06-27,CloudSync,Software,4,227.39,EU-North,909.56
+ORD-1193,2025-01-15,Widget Pro,Hardware,2,168.93,EU-North,337.86
+ORD-1194,2025-03-04,API Credits,Service,12,221.03,EU-South,2652.36
+ORD-1195,2025-06-06,DataViz License,Software,6,95.77,EU-South,574.62
+ORD-1196,2025-02-06,Sensor Kit,Hardware,16,457.28,EU-East,7316.48
+ORD-1197,2025-06-20,Analytics Suite,Software,9,235.18,EU-West,2116.62
+ORD-1198,2025-02-10,Analytics Suite,Software,10,342.02,EU-West,3420.20
+ORD-1199,2025-03-18,Analytics Suite,Software,12,493.94,EU-South,5927.28
+ORD-1200,2025-02-20,Support Plan,Service,15,424.19,EU-South,6362.85
+ORD-1201,2025-05-27,Analytics Suite,Software,4,126.22,EU-North,504.88
+ORD-1202,2025-06-18,Support Plan,Service,10,20.74,EU-South,207.40
+ORD-1203,2025-06-25,Support Plan,Service,1,287.3,EU-West,287.30
+ORD-1204,2025-02-28,Analytics Suite,Software,10,390.1,EU-North,3901.00
+ORD-1205,2025-06-23,Sensor Kit,Hardware,7,314.23,EU-East,2199.61
+ORD-1206,2025-04-23,CloudSync,Software,2,161.37,EU-West,322.74
+ORD-1207,2025-03-17,API Credits,Service,5,54.16,EU-North,270.80
+ORD-1208,2025-05-19,Router X200,Hardware,6,108.38,EU-North,650.28
+ORD-1209,2025-05-04,Support Plan,Service,6,135.91,EU-North,815.46
+ORD-1210,2025-01-20,API Credits,Service,4,239.47,EU-East,957.88
+ORD-1211,2025-05-23,Sensor Kit,Hardware,13,483.95,EU-North,6291.35
+ORD-1212,2025-05-18,CloudSync,Software,13,16.81,EU-West,218.53
+ORD-1213,2025-06-22,Analytics Suite,Software,12,339.68,EU-North,4076.16
+ORD-1214,2025-03-01,Router X200,Hardware,12,63.08,EU-South,756.96
+ORD-1215,2025-05-24,Widget Pro,Hardware,20,443.27,EU-North,8865.40
+ORD-1216,2025-04-29,Sensor Kit,Hardware,3,321.34,EU-North,964.02
+ORD-1217,2025-01-10,Router X200,Hardware,4,78.48,EU-North,313.92
+ORD-1218,2025-05-18,Analytics Suite,Software,4,57.61,EU-East,230.44
+ORD-1219,2025-06-28,Router X200,Hardware,15,191.79,EU-South,2876.85
+ORD-1220,2025-05-06,DataViz License,Software,14,330.9,EU-South,4632.60
+ORD-1221,2025-02-25,Support Plan,Service,2,348.23,EU-South,696.46
+ORD-1222,2025-01-26,Analytics Suite,Software,8,429.16,EU-North,3433.28
+ORD-1223,2025-02-18,API Credits,Service,2,205.08,EU-West,410.16
+ORD-1224,2025-06-14,Analytics Suite,Software,3,334.75,EU-West,1004.25
+ORD-1225,2025-02-02,Widget Pro,Hardware,11,129.34,EU-East,1422.74
+ORD-1226,2025-02-25,CloudSync,Software,18,111.5,EU-East,2007.00
+ORD-1227,2025-06-02,API Credits,Service,5,396.43,EU-West,1982.15
+ORD-1228,2025-05-19,Support Plan,Service,5,493.88,EU-North,2469.40
+ORD-1229,2025-01-07,DataViz License,Software,4,333.91,EU-East,1335.64
+ORD-1230,2025-03-02,Widget Pro,Hardware,12,397.08,EU-North,4764.96
+ORD-1231,2025-02-02,Widget Pro,Hardware,6,140.02,EU-South,840.12
+ORD-1232,2025-04-03,CloudSync,Software,3,243.35,EU-West,730.05
+ORD-1233,2025-06-07,Analytics Suite,Software,17,118.55,EU-West,2015.35
+ORD-1234,2025-01-08,Support Plan,Service,15,325.23,EU-West,4878.45
+ORD-1235,2025-01-28,Analytics Suite,Software,13,218.86,EU-South,2845.18
+ORD-1236,2025-03-24,Analytics Suite,Software,3,450.63,EU-East,1351.89
+ORD-1237,2025-06-12,CloudSync,Software,5,144.75,EU-North,723.75
+ORD-1238,2025-04-27,Router X200,Hardware,20,269.96,EU-South,5399.20
+ORD-1239,2025-06-16,CloudSync,Software,4,427.86,EU-East,1711.44
+ORD-1240,2025-04-16,Router X200,Hardware,15,445.15,EU-North,6677.25
+ORD-1241,2025-01-25,Analytics Suite,Software,13,213.82,EU-North,2779.66
+ORD-1242,2025-04-06,Router X200,Hardware,11,335.89,EU-East,3694.79
+ORD-1243,2025-01-22,Analytics Suite,Software,3,54.69,EU-West,164.07
+ORD-1244,2025-04-06,Router X200,Hardware,4,374.84,EU-East,1499.36
+ORD-1245,2025-05-24,Widget Pro,Hardware,19,478.74,EU-North,9096.06
+ORD-1246,2025-06-20,CloudSync,Software,14,183.25,EU-South,2565.50
+ORD-1247,2025-04-01,Widget Pro,Hardware,10,304.19,EU-West,3041.90
+ORD-1248,2025-02-27,Sensor Kit,Hardware,5,331.79,EU-West,1658.95
+ORD-1249,2025-03-13,API Credits,Service,18,190.09,EU-East,3421.62
+ORD-1250,2025-06-09,Router X200,Hardware,18,487.52,EU-West,8775.36
+ORD-1251,2025-06-29,Support Plan,Service,1,98.39,EU-North,98.39
+ORD-1252,2025-02-06,API Credits,Service,12,12.98,EU-South,155.76
+ORD-1253,2025-01-08,CloudSync,Software,5,373.06,EU-West,1865.30
+ORD-1254,2025-03-29,Sensor Kit,Hardware,13,215.71,EU-East,2804.23
+ORD-1255,2025-05-26,API Credits,Service,10,363.57,EU-West,3635.70
+ORD-1256,2025-06-08,Widget Pro,Hardware,5,87.12,EU-West,435.60
+ORD-1257,2025-04-19,CloudSync,Software,9,227.12,EU-South,2044.08
+ORD-1258,2025-05-12,Analytics Suite,Software,14,143.84,EU-West,2013.76
+ORD-1259,2025-06-23,API Credits,Service,14,64.33,EU-South,900.62
+ORD-1260,2025-06-03,Support Plan,Service,2,118.04,EU-West,236.08
+ORD-1261,2025-02-24,Widget Pro,Hardware,7,157.69,EU-East,1103.83
+ORD-1262,2025-01-02,Support Plan,Service,10,170.77,EU-South,1707.70
+ORD-1263,2025-05-17,Router X200,Hardware,6,73.29,EU-East,439.74
+ORD-1264,2025-01-11,API Credits,Service,3,204.55,EU-South,613.65
+ORD-1265,2025-03-22,Widget Pro,Hardware,15,461.36,EU-South,6920.40
+ORD-1266,2025-04-14,Router X200,Hardware,14,151.85,EU-West,2125.90
+ORD-1267,2025-06-08,API Credits,Service,6,402.64,EU-South,2415.84
+ORD-1268,2025-01-28,API Credits,Service,3,223.98,EU-East,671.94
+ORD-1269,2025-01-21,Router X200,Hardware,19,206.21,EU-South,3917.99
+ORD-1270,2025-02-13,Support Plan,Service,11,118.56,EU-West,1304.16
+ORD-1271,2025-03-31,CloudSync,Software,17,259.87,EU-North,4417.79
+ORD-1272,2025-03-07,DataViz License,Software,8,60.36,EU-East,482.88
+ORD-1273,2025-06-17,DataViz License,Software,20,84.9,EU-West,1698.00
+ORD-1274,2025-05-25,DataViz License,Software,16,237.33,EU-South,3797.28
+ORD-1275,2025-01-18,API Credits,Service,11,83.96,EU-South,923.56
+ORD-1276,2025-06-01,Analytics Suite,Software,10,400.19,EU-West,4001.90
+ORD-1277,2025-04-29,API Credits,Service,17,46.34,EU-South,787.78
+ORD-1278,2025-03-15,Widget Pro,Hardware,2,190.67,EU-West,381.34
+ORD-1279,2025-04-09,CloudSync,Software,20,301.09,EU-South,6021.80
+ORD-1280,2025-05-27,Widget Pro,Hardware,15,455.42,EU-East,6831.30
+ORD-1281,2025-02-08,API Credits,Service,20,243.05,EU-West,4861.00
+ORD-1282,2025-03-29,Analytics Suite,Software,4,407.36,EU-West,1629.44
+ORD-1283,2025-04-23,DataViz License,Software,2,131.38,EU-South,262.76
+ORD-1284,2025-03-14,DataViz License,Software,12,192.69,EU-South,2312.28
+ORD-1285,2025-01-14,Router X200,Hardware,11,342.65,EU-North,3769.15
+ORD-1286,2025-06-23,CloudSync,Software,11,56.3,EU-South,619.30
+ORD-1287,2025-06-18,Support Plan,Service,9,364.62,EU-East,3281.58
+ORD-1288,2025-02-06,API Credits,Service,3,295.53,EU-North,886.59
+ORD-1289,2025-01-22,Support Plan,Service,13,73.18,EU-North,951.34
+ORD-1290,2025-06-21,Router X200,Hardware,11,408.45,EU-West,4492.95
+ORD-1291,2025-04-03,Router X200,Hardware,17,187.29,EU-North,3183.93
+ORD-1292,2025-05-05,DataViz License,Software,7,177.44,EU-East,1242.08
+ORD-1293,2025-03-17,Sensor Kit,Hardware,5,85.91,EU-West,429.55
+ORD-1294,2025-06-08,Widget Pro,Hardware,11,439.42,EU-East,4833.62
+ORD-1295,2025-06-27,Router X200,Hardware,5,89.49,EU-East,447.45
+ORD-1296,2025-06-23,Analytics Suite,Software,2,211.31,EU-East,422.62
+ORD-1297,2025-04-25,Analytics Suite,Software,20,149.6,EU-East,2992.00
+ORD-1298,2025-05-01,Sensor Kit,Hardware,10,483.13,EU-East,4831.30
+ORD-1299,2025-04-29,API Credits,Service,19,492.37,EU-North,9355.03
+ORD-1300,2025-02-11,Router X200,Hardware,17,268.45,EU-East,4563.65

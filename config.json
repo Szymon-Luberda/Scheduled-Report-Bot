@@ -1,0 +1,6 @@
+{
+  "report_title": "Daily Sales Summary",
+  "input_file": "data/sample_sales.csv",
+  "output_file": "reports/daily-summary.md",
+  "enabled": true
+}
